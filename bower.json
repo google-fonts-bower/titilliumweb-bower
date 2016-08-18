@@ -1,0 +1,17 @@
+{
+    "name": "titilliumweb-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/titilliumweb-bower.git"
+    },
+    "description": "Titillium Web font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
